@@ -11,7 +11,7 @@ def get_point_line_distance(point, r0, n):
 
     The distance is positive if the point is on the
     outer half-plane and negative if the point
-    is on the inner half-plane. The outer half-plane is 
+    is on the inner half-plane. The outer half-plane is
     the half-plane to which vector `n` is directed.
 
     Args:
