@@ -272,6 +272,7 @@
 
 #  * Класс копилка, с ограничением по объему
 
+
 # class MoneyBox:
 #     def __init__(self, capacity):
 #         self.count = 0
@@ -291,4 +292,3 @@
 # money.add(5)
 # money.add(12)
 # print(money.count)
-
